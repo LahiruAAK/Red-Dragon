@@ -41,14 +41,14 @@ global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive pictur
 global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
 global.callblock = "false" // call block "true" / "false" ("true"  to block callers)
 global.antibad = "false" // To remove bad word senders
-global.antispam = "true" // To remove or block spammers
-global.antilink = "true" // To remove group link sharing peoples
+global.antispam = "false" // To remove or block spammers
+global.antilink = "false" // To remove group link sharing peoples
 global.upsongvoice = "false" // true/false \\ bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
 global.owner = ['+94714304178']
-global.ownertag = '+94714304178' //your tag number
+global.ownertag = '+94701234922' //your tag number
 global.botname = 'Ewone sf - 𝘉𝘖𝘛' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
 global.author = "Ewone sf" // sticker author
